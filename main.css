@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.kumar{
+    background-color:white;
+    margin-bottom: 20px;
+    padding:50px;
+    
+}
+.sravan{
+    color:teal;
+    font-weight: Bold;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.abc{
+     color:yellowgreen;
+     font-weight:bolder;
+     font-family:'Times New Roman', Times, serif;
+}
+
+.abcd{
+    color:steelblue;
+   
+    font-family:'Times New Roman', Times, serif;
+}
+
+.abcde{
+    background-color:teal;
+    color:white;
+    width:49.5%;
+    height:50%;
+    float:left;
+    padding: 50px;
+    margin-left:5px;
+
+}
+
+.abcdef{
+    background-color:yellowgreen;
+    width:200px;
+    height:30px;
+    color:white;
+
+}
+
+.vengal{
+    background-color:mediumturquoise;
+    color:white;
+    width:49.5%;
+    height:50%;
+    float:right;
+    padding: 70px;
+    margin-right:5px;
+}
